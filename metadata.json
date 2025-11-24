@@ -1,0 +1,5 @@
+{
+  "name": " Chimera_Gen_",
+  "description": "A synthetic data generation platform utilizing Gemini to profile, train, and generate tabular datasets with advanced privacy validation and statistical fidelity checks.",
+  "requestFramePermissions": []
+}
