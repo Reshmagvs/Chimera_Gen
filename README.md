@@ -1,6 +1,9 @@
 ## Chimera Gen
 ChimeraGen provides an automated ecosystem where users can generate privacy safe synthetic data for fraud detection, analyse dataset quality, handle class imbalance, and build ML ready datasets. Users can upload real transactional datasets, get profiling, generate 10× synthetic data, validate it with statistical tests, and receive a complete AI generated report. It targets Fintech companies, banks, fraud detection teams etc.
 
+![c1](https://github.com/Reshmagvs/Chimera_Gen/blob/main/chim.png)
+![c1](https://github.com/Reshmagvs/Chimera_Gen/blob/main/chim2.png)
+![c1](https://github.com/Reshmagvs/Chimera_Gen/blob/main/chim3.png)
 
 # Tech Stack Overview
 
@@ -25,5 +28,3 @@ ChimeraGen provides an automated ecosystem where users can generate privacy safe
 3. VALIDATION REPORTS → REAL VS SYNTHETIC COMPARISONS VIA CHARTS, METRICS, AND STATISTICAL TESTS.
 4. FRAUD BALANCING MODULE → GENERATES RARE FRAUD CASES TO IMPROVE FRAUD-DETECTION MODEL TRAINING.
 5. PRIVACY & COMPLIANCE LAYER → ENSURES SYNTHETIC OUTPUTS REMAIN GDPR/RBI COMPLIANT WITH NO SENSITIVE LEAKAGE.
-
-# Dataset 
